@@ -1,4 +1,4 @@
-"C:\Users\Lenovo\OneDrive\Pictures\New folder\intrudercapturingsystem.png"
+"C:\Users\Lenovo\OneDrive\Desktop\python\project\intrudercapturingsystem.png"
 
 # Intruder Capturing System
 
