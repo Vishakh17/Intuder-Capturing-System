@@ -55,8 +55,8 @@ class IntruderCapturer:
         self.wrong_attempts = 0
         self.lockdown_until = 0
 
-        self.sender_email = "vishakhshetty310@gmail.com"
-        self.sender_password = "bltf anok arvk hxih"
+        self.sender_email = "your_mail_id"
+        self.sender_password = "your_app_password"
         self.latest_capture_path = None
 
     def get_ip_address(self):
