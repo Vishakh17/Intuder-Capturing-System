@@ -1,4 +1,4 @@
-![Uploading 52ed89e2-2ab4-447b-a120-358390fe1356.png…]()
+"C:\Users\Lenovo\OneDrive\Pictures\New folder\intrudercapturingsystem.png"
 
 # Intruder Capturing System
 
